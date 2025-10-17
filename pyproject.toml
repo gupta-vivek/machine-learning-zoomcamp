@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipywidgets>=8.1.7",
     "notebook>=7.4.5",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
 ]
